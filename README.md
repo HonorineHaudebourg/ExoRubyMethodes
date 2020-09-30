@@ -1,0 +1,2 @@
+# ExoRubyMethodes
+Exercices mméthodes ruby
